@@ -1,9 +1,6 @@
 # eNSP-install-win
-华为 eNSP 网络模拟器 Windows 所需的安装包及避坑指南，包含WinPcap, Wireshark, VirtualBox 5.2.44 及 eNSP 主程序”。
+华为 eNSP 网络模拟器 Windows 所需的安装包及简单安装指南，
 
-# eNSP 一键安装包 (Windows)
-
-华为 eNSP（Enterprise Network Simulation Platform）网络模拟器的 Windows 安装包合集，收录经过验证的兼容版本，附带安装避坑指南。
 
 ## 📦 包含文件
 
